@@ -16,6 +16,11 @@
   .event-details {
     text-align: right;
     font-size: 16px;
+    padding: 20px;
+    width: 250px;
+    cursor: pointer;
+    border: 1px solid #39495c;
+    margin-bottom: 10px;
   }
   
   .category, .organizer {
