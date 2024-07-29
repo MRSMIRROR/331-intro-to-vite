@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import EventCard from '@/components/EventCard.vue'
-  import EventDetails from '@/components/EventDetails.vue'
+  import StudentList from '@/components/StudentList.vue'
   import { Event } from '@/type/Event'
   import { ref, onMounted } from 'vue'
   import EventService from '@/services/EventService'
